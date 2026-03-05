@@ -2,5 +2,6 @@ file1
 
 m01. first line
 m01. second line
-m01. thirs line
+m02. bugfix
+m01. third line
 
