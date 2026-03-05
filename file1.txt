@@ -3,8 +3,11 @@ file1
 m01. first line
 m02. feature-1 first line line from stash finished
 m01. second line
+m05. feature-3 this part is ready
 m03. new feature-2 finisshed
 m02. bugfix
 m01. third line
 m03. gfdf
 m03. rffdsd
+m05. feature-3 this part is ready
+
