@@ -17,4 +17,3 @@ jobs:
       run: |
         echo "Files in repository:"
         ls -la
-        dir /a
